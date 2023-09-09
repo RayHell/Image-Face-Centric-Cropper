@@ -52,7 +52,7 @@ Place all the `.jpg` images you want to process inside the `images` folder. Then
 conda activate face_crop_env
 python image_processor.py
 ```
-
+Windows user can also execute run.bat 
 Processed images will be saved in the `cropped` folder.
 
 
