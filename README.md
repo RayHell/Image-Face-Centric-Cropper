@@ -49,6 +49,7 @@ pip install face_recognition Pillow
 Place all the `.jpg` images you want to process inside the `images` folder. Then run the script:
 
 ```
+conda activate face_crop_env
 python image_processor.py
 ```
 
